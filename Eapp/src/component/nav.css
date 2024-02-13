@@ -1,0 +1,14 @@
+.main-header img{
+    width: 100px;
+}
+
+.container{
+    display: flex;
+    justify-content:space-between;
+    margin:0px 60px;
+}
+
+.container ul{
+    display: flex;
+    gap:40px;
+}
